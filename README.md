@@ -53,15 +53,3 @@ This ensures:
 - Notebook runs safely on Kaggle and local machines
 
 ---
-
-## 🔹 How to Set Up Credentials
-
-### Option 1: Local Machine
-
-```bash
-export SNOWFLAKE_USER=your_username
-export SNOWFLAKE_PASSWORD=your_password
-export SNOWFLAKE_ACCOUNT=your_account
-export SNOWFLAKE_WAREHOUSE=your_warehouse
-export SNOWFLAKE_DATABASE=your_database
-export SNOWFLAKE_SCHEMA=your_schema
