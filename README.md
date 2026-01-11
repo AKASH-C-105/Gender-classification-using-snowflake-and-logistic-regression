@@ -48,8 +48,4 @@ This project uses **environment variables** to securely store sensitive informat
 - Database
 - Schema
 
-This ensures:
-- No secrets are exposed on GitHub
-- Notebook runs safely on Kaggle and local machines
-
 ---
